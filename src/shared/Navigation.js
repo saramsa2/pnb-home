@@ -17,9 +17,9 @@ const Navigation = ({children}) => {
               navbarScroll
             >
               <Nav.Link href="/">Home</Nav.Link>
-              <Nav.Link href="#action2">Sheep</Nav.Link>
-              <Nav.Link href="#action3">Alpaca</Nav.Link>
-              <Nav.Link href="#action4">About</Nav.Link>
+              <Nav.Link href="/sheep">Sheep</Nav.Link>
+              <Nav.Link href="/alpaca">Alpaca</Nav.Link>
+              <Nav.Link href="/about">About</Nav.Link>
               <Nav.Link href="/contact">Contact</Nav.Link>
             </Nav>
           </Navbar.Collapse>

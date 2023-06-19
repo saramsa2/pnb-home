@@ -11,7 +11,7 @@ const Contact = () => {
           <span>
             <p class="col-sm-12 contact-title">GET IN TOUCH</p>
           </span>
-          <div class="col-sm-2">
+          <div class="col-md-2">
             <div class="rounded-circle contact-icon">
               <IconAddress width={"40"} height={"40"} fill="white" />
             </div>
@@ -24,14 +24,14 @@ const Contact = () => {
               Auckland 2104
             </p>
           </div>
-          <div class="col-sm-2">
+          <div class="col-md-2">
             <div class="rounded-circle contact-icon">
               <IconPhone width={"40"} height={"40"} fill="white" />
             </div>
             <h3 class="contact-icon-title">Phone</h3>
             <p class="contact-icon-text">09 263 6373</p>
           </div>
-          <div class="col-sm-2">
+          <div class="col-md-2">
             <div class="rounded-circle contact-icon">
               <IconEmail width={"40"} height={"40"} fill="white" />
             </div>
